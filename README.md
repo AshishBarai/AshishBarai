@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Barai</h1>
-<h3 align="center">A immerging Data Analyst/Scientist.</h3>
+<h3 align="center">A immerging Data Analyst.</h3>
 
 <img align="right" alt="Power BI" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
